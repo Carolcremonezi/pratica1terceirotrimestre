@@ -13,4 +13,26 @@
 .Calculadora{
     position: absolute;
     background-color: rgba(75, 5, 75, 0.5);
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 17px;
+    font-size: 15px;
+}
+.botao{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: rgb(216, 82, 250);
+    color: white;
+}
+.botao:hover{
+    background-color: rgb(128, 19, 150);
+}
+#resultado{
+    background-color: rgb(206, 72, 233);
+
 }
