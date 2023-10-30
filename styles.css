@@ -33,11 +33,11 @@
     background-color: rgb(128, 19, 150);
 }
 #resultado{
-    background-color: rgb(206, 72, 233);
+    background-color: rgb(224, 143, 240);
     width: 207px;
     height: 30px;
     margin: 5px;
-    color: rgb(226, 166, 245);
+    color: white;
     text-align: right;
     
 }
